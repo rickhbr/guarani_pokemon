@@ -31,10 +31,12 @@ flutter run / executar
 
 ## Tecnologias
 
-GetX Patterns
-Gerenciamento de estado: GetX
-Dio
-SOLID / Clean Arch
+- GetX Patterns
+- Hive
+- Lottie (json)
+- Gerenciamento de estado: GetX
+- Dio
+- SOLID / Clean Arch
 
 ## Agradecimento
 
